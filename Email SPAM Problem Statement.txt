@@ -1,0 +1,21 @@
+Problem Statement
+ 
+   An Analytics Company 'XYZ' is hiring Data Scientists. Many eligible candidates have enrolled for these posts.  In order to screen the ideal candidates for the available positions, the company thought of testing each candidate's data science skills. The Company has then asked all enrolled candidates to develop a 'SpamClassifer' class.
+ 
+The 'SpamClassifer' must train and build a model based on given emails data set. It must also be able to predict if an input email is 'SPAM' or 'NOT SPAM', based on the trained model. See Instructions provided below for more details.
+ 
+You being one of the aspired candidate for the available positions, solve the machine learning problem designed by Company 'XYZ' and get selected with a good package.
+ 
+Instructions for solving the Problem
+Define 'SpamClassifier' class in a 'spamclassifier.py' file.
+Use the data set emails.csv . Click on the data set name to download it to your local machine.
+The data set contains two columns : 'text' and 'spam'. Values in 'text' column are emails and values in 'spam' column indicate if an email in corresponding row is SPAM or not.
+Use values in  'spam' column as label to email text provided in corresponding 'text' column.
+'spam' column takes two values '0' and '1'. '1' indicates SPAM and '0' indicates 'NOT SPAM'.
+Define 'SpamClassifier' Class with following methods.  The description of methods is provided in definition of `SpamClassifier` class template.
+extract_tokens
+get_features
+extract_features
+train
+predict
+Use 'pandas', 'nltk', 'scikit-learn' packages and 'NaiveBayesClassifier' of 'nltk' to build the classifier model for solving the p\
