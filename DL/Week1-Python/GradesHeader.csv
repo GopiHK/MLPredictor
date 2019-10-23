@@ -1,0 +1,22 @@
+name, city, subject, marks, grade
+John,Bangalore,Data Structures,80,B
+Raman,Chennai,Data Structures,70,C
+Venkat,Bangalore,C,90,A
+Rani,Delhi,Data Structures,95,A
+Lakshmi,Mumbai,Algorithms,90,A
+Syed,Kolkata,Compilers,92,A
+Alok,Kolkata,Automata,80,B
+Mehr,Mumbai,Data Structures,45,D
+Abraham,Chennai,Algorithms,96,A
+Jos,Bangalore,Compilers,59,D
+Amit,Patna,Automata,79,C
+Krishna,Hyderabad,Java,60,C
+Sumit,Pune,Python,55,D
+Jessie,Chandigarh,Python,12,F
+Jaswinder,Chandigarh,Java,87,B
+Rodriques,Goa,Scala,75,C
+Vijay,Kochi,Operating Systems,60,C
+Stran,Manipur,DBMS,35,D
+Mani,Darjeeling,Automata,28,F
+Govind,Simla,Data Structures,39,D
+Sridhar,Ooty,Algorithms,80,B

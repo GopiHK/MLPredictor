@@ -1,0 +1,22 @@
+,name,city,subject,marks,MaxMark,grade
+0,John,Bangalore,Data Structures,50.0,100.0,B
+1,Raman,Chennai,Data Structures,70.0,120.0,C
+2,Venkat,Bangalore,Not Known,90.0,130.0,A
+3,Rani,Delhi,Data Structures,95.0,100.0,A
+4,Lakshmi,Mumbai,Algorithms,90.0,120.0,A
+5,Syed,Kolkata,Compilers,92.0,120.0,A
+6,Alok,Kolkata,Not Known,80.0,130.0,B
+7,Mehr,Mumbai,Data Structures,45.0,120.0,D
+8,Abraham,Chennai,Algorithms,96.0,100.0,A
+9,Jos,Bangalore,Compilers,59.0,120.0,D
+10,Amit,Patna,Automata,79.0,130.0,C
+11,Krishna,Hyderabad,Java,60.0,100.0,C
+12,Sumit,Pune,Python,55.0,100.0,D
+13,Jessie,Chandigarh,Python,12.0,120.0,F
+14,Jaswinder,Chandigarh,Java,87.0,130.0,B
+15,Rodriques,Goa,Scala,75.0,100.0,C
+16,Vijay,Kochi,Operating Systems,60.0,100.0,C
+17,Stran,Manipur,DBMS,35.0,120.0,D
+18,Mani,Darjeeling,Automata,28.0,130.0,F
+19,Govind,Simla,Data Structures,39.0,100.0,D
+20,Sridhar,Ooty,Algorithms,80.0,100.0,B

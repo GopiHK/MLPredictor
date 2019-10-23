@@ -1,0 +1,22 @@
+﻿Name,Region,Subject,Marks,Max Marks,Grade
+John,Bangalore,Data Structures, ,100,B
+Raman,Chennai,Data Structures,70,120,C
+Venkat,Bangalore, ,90,130,A
+Rani,Delhi,Data Structures,95,100,A
+Lakshmi,Mumbai,Algorithms,90, ,A
+Syed,Kolkata,Compilers,92,,A
+Alok,Kolkata, ,80,130,B
+Mehr,Mumbai,Data Structures,45,,D
+Abraham,Chennai,Algorithms,96,100,A
+Jos,Bangalore,Compilers,59,120,D
+Amit,Patna,Automata,79,130,C
+Krishna,Hyderabad,Java,60,100,C
+Sumit,Pune,Python,55,100,D
+Jessie,Chandigarh,Python,12,120,F
+Jaswinder,Chandigarh,Java,87,130,B
+Rodriques,Goa,Scala,75,100,C
+Vijay,Kochi,Operating Systems,60,100,C
+Stran,Manipur,DBMS,35,120,D
+Mani,Darjeeling,Automata,28,130,F
+Govind,Simla,Data Structures,39,100,D
+Sridhar,Ooty,Algorithms,80,100,B
